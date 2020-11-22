@@ -1,0 +1,12 @@
+body{
+	background-image: url("http://images.unsplash.com/photo-1441239372925-ac0b51c4c250?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEyMDd9");
+	background-size: 100%;
+	background-attachment: fixed;
+	color: black;
+}
+h2{
+	display: inline;
+}
+#start{
+	margin: 10px;
+}
